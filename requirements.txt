@@ -1,0 +1,14 @@
+streamlit
+pandas
+geopandas
+pydeck
+plotly
+numpy
+openpyxl
+fpdf
+pyarrow
+matplotlib
+rich
+pyinstaller
+gdown
+scipy
